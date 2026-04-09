@@ -137,6 +137,6 @@ bunx vercel
 
 ## Результат
 
-- Ссылка на дашборд: _[вставить после деплоя]_
-- Ссылка на репо: _[этот репозиторий]_
-- Скриншот Telegram: _[вставить]_
+- Ссылка на дашборд: https://gbc-analytics-dashboard.vercel.app
+- Ссылка на репо: https://github.com/winone-it/gbc-analytics-dashboard
+- Telegram-бот: @AIToolsSpecialist_bot — уведомления о заказах > 50,000 ₸
